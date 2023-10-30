@@ -1,6 +1,6 @@
 """
 Baconian Cipher
-By: Sourish and Deion
+By: Sourish Mukherji
 """
 
 encrypt = ""
